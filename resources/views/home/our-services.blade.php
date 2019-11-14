@@ -48,13 +48,13 @@
             <div class="row dzseth">
                 <div class="col-md-7 col-sm-6 dis-tbl">
                     <div class="dis-tbl-cell">
-                        <h2 class="text-primary spa-title-head ">Special Treatments</h2>
+                        <h2 class="text-primary spa-title-head ">Мастер</h2>
                         <div class="dez-separator spa bg-primary"></div>
                         <ul class="list-icon-box m-t30">
-                            <li><i class="flaticon-nature text-primary"></i><span>Keep your skin radiant this winter.</span></li>
-                            <li><i class="flaticon-stones text-primary"></i><span>Created from natural herbs – Ginseng roots extract.</span></li>
-                            <li><i class="flaticon-spa text-primary"></i><span>Provide treatments and products that are safe, sanitary, and effective.</span></li>
-                            <li><i class="flaticon-essential-oil text-primary"></i><span>Quantity product from BB Wellness & Spa</span></li>
+                            <li><i class="flaticon-nature text-primary"></i><span>Профессионал своего дела</span></li>
+                            <li><i class="flaticon-stones text-primary"></i><span>Опыт более 5-ти лет</span></li>
+                            <li><i class="flaticon-spa text-primary"></i><span>Практикует индивидуальный подход к каждому</span></li>
+                            <li><i class="flaticon-essential-oil text-primary"></i><span>Постоянно совершенствует свои навыки</span></li>
                         </ul>
                     </div>
                 </div>
