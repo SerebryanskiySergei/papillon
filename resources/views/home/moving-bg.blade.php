@@ -12,7 +12,7 @@
             </div>
             <div class="col-md-2 col-lg-5 col-sm-12 text-right equal-col dis-tbl wow fadeInRight" data-wow-duration="1.80s" data-wow-delay="0.02s">
                 <div class="dis-tbl-cell-b">
-                    <img src="images/product/product/pic1.jpg" class="" alt=""/>
+                    <img src="images/all-products.jpg" class="" alt=""/>
                 </div>
             </div>
         </div>

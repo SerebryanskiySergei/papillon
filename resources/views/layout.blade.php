@@ -35,6 +35,7 @@
 <link rel="stylesheet" type="text/css" href="plugins/revolution/v5.4.3/css/navigation.css">
 <!-- Google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,600,700,800,900|El+Messiri:100,200,300,400,500,600,700,800,900|Raleway:100,200,300,400,500,600,700,800,900|Montserrat:100,200,300,400,500,600,700,800,900|Open+Sans:300,400,600,700,800|Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <script src="https://api-maps.yandex.ru/2.1/?apikey=4127a7fc-e815-435e-adc6-eaf0517a8310&lang=ru_RU" type="text/javascript"></script>
 </head>
 <body>
 <div class="page-wraper">
@@ -88,47 +89,54 @@
     <!-- header END -->
     @yield('content')
     <!-- Footer -->
-    <footer class="bg-white spa-footer p-t100" id="footer1">
-		<img src="images/skew/footer.svg" alt=""/>
-		<div class="footer-top text-black">
-            <div class="container">
-                <div class="row equal-wraper2">
-					<div class="col-md-4 col-sm-4 ">
-                        <div class="ft-gallery-box">
-							<div class="ft-gallery-media beauty-care owl-spa-btn">
-								<div class="item  wow fadeInDown" data-wow-duration="1.50s" data-wow-delay="0.1s"><img src="images/gallery/ft-gallery/pic1.jpg" alt=""/></div>
-								<div class="item  wow fadeInDown" data-wow-duration="1.50s" data-wow-delay="0.1s"><img src="images/gallery/ft-gallery/pic1.jpg" alt=""/></div>
-							</div>
-						</div>
-
-						<div class="text-center m-t100">
-							<h2>Свяжитесь с нами</h2>
-							<ul class="list-inline">
-                                <li><a href="https://vk.com/sergei_serebro" class="site-button facebook circle"><i class="fa text-white fa-vk"></i></a></li>
-                                <li><a href="https://www.instagram.com/papillon_vrn" class="site-button instagram circle"><i class="fa text-white fa-instagram"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 text-center equal-col">
-						<h2 class="m-b30 text-white min-title">Наше расположение</h2>
-                        <img src="images/product/product/pic1.png" alt="" class="wow zoomIn" data-wow-duration="1.50s" data-wow-delay="0.1s"/>
+    <footer class="site-footer map-footer text-white">
+        <div class="footer-top bg-primary">
+            <div class="container-fluid">
+                <div class="row equal-wraper" >
+                    <div class="col-md-6 col-sm-6 p-a0 equal-col">
+                        <div id="map" style="border:0; min-height:500px; width:100%; height:100%;"></div>
                     </div>
-					<div class="col-md-4 col-sm-4 text-center equal-col dis-tbl">
-                        <div class="widget widget_getintuch dis-tbl-cell">
-                            <h2 class="m-b30 text-white min-title">Салон депиляции Papillon:</h2>
-                            <p class="p-lr20">Воронеж, Ленинский район, Свободы, 14, офис 808. 394018</p>
+                    <div class="col-md-6 col-sm-6 equal-col">
+                        <div class="p-tb60 p-lr15">
+                            <div class="max-w600">
+                                <div class="footer-logo m-b30">
+                                    <img src="images/logo-white1.png" alt="" width="120"/>
+                                </div>
+                                <div class="m-b0">
+                                    <h5 class="m-b10 text-white">Мы ждем вас по адресу:</h5>
+                                    <p>г. Воронеж, ул. Свободы, д. 14 (БЦ БИК), 8 этаж, оф. 808</p>
+                                    <p class="m-b25">График работы: с 8:00 до 20:00 без выходных</p>
+                                    <div class="subscribe-form m-b20">
+                                        <form role="search">
+                                            <div class="input-group">
+                                                <input name="text" class="form-control" placeholder="Email" type="text">
+                                                <span class="input-group-btn">
+													<button type="submit" class="site-button radius-xl">Подпишитесь на рассылку</button>
+												</span>
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <ul class="list-inline m-a0">
+                                        <li><a href="https://vk.com/sergei_serebro" class="site-button facebook circle"><i class="fa fa-vk"></i></a></li>
+                                        <li><a href="https://www.instagram.com/papillon_vrn" class="site-button instagram circle"><i class="fa fa-instagram"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="footer-bottom text-left row bg-primary-dark">
+                            <div class="col-md-12 col-sm-12 text-left p-lr30">
+                                <span>Copyright &copy; 2019 Papillon</span>
+                                <div class="widget-link m-t10 ">
+                                    <ul>
+                                        <li><a href="javascript:;">Для нее</a></li>
+                                        <li><a href="javascript:;"> Для него</a></li>
+                                        <li><a href="javascript:;"> Отзывы</a></li>
+                                        <li><a href="javascript:;"> Прайс</a></li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-		<div class="footer-bg"></div>
-        <!-- footer bottom part -->
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 text-center"> <span>Copyright © 2019 Papillon. Все права защищены.</span> </div>
-
                 </div>
             </div>
         </div>
@@ -187,7 +195,19 @@
 <script>
 jQuery(document).ready(function() {
 	dz_rev_slider_1();
-
+    ymaps.ready(init);
+    function init(){
+        // Создание карты.
+        var myMap = new ymaps.Map("map", {
+            center: [51.65902194, 39.19683768],
+            zoom: 16
+        });
+        myMap.balloon.open([51.65902194, 39.19683768], {
+            contentHeader: 'Papillon',
+            contentBody: 'ул.Свободы 14 (БЦ БИК), оф.808',
+            balloonPane: 'outerBalloon'
+        });
+    }
 });	/*ready*/
 </script>
 </body>

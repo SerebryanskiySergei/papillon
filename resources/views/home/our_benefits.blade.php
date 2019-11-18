@@ -51,16 +51,16 @@
                         <h2 class="text-primary spa-title-head ">Мастер</h2>
                         <div class="dez-separator spa bg-primary"></div>
                         <ul class="list-icon-box m-t30">
-                            <li><i class="flaticon-nature text-primary"></i><span>Профессионал своего дела</span></li>
-                            <li><i class="flaticon-stones text-primary"></i><span>Опыт более 5-ти лет</span></li>
-                            <li><i class="flaticon-spa text-primary"></i><span>Практикует индивидуальный подход к каждому</span></li>
-                            <li><i class="flaticon-essential-oil text-primary"></i><span>Постоянно совершенствует свои навыки</span></li>
+                            <li style="font-size: 28px"><i class="flaticon-nature text-primary"></i><span>Профессионал своего дела</span></li>
+                            <li style="font-size: 28px"><i class="flaticon-stones text-primary"></i><span>Опыт более 5-ти лет</span></li>
+                            <li style="font-size: 28px"><i class="flaticon-spa text-primary"></i><span>Практикует индивидуальный подход к каждому</span></li>
+                            <li style="font-size: 28px"><i class="flaticon-essential-oil text-primary"></i><span>Постоянно совершенствует свои навыки</span></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-6" >
                     <div class="box-img text-right">
-                        <img src="images/pic1.jpg" class="cover wow fadeInDown" data-wow-duration="1.50s" data-wow-delay="0.5s" alt="" data-tilt="" />
+                        <img src="images/master.jpg" class="cover wow fadeInDown" data-wow-duration="1.50s" data-wow-delay="0.5s" alt="" data-tilt="" />
                     </div>
                 </div>
             </div>

@@ -33,7 +33,7 @@
             </div>
             <div class="col-md-5 col-sm-3 dis-tbl equal-col">
                 <div class="dis-tbl-cell-b wow fadeIn" data-wow-duration="1.80s" data-wow-delay="0.50s">
-                    <img src="images/product/product/care-bg.jpg" alt=""/>
+                    <img src="images/our-armory.jpg" alt=""/>
                 </div>
             </div>
         </div>

@@ -1,6 +1,6 @@
 /*
 ======================================
-  * CSS TABLE CONTENT *  
+  * CSS TABLE CONTENT *
 ======================================
 
 1. GENERAL
@@ -14,7 +14,7 @@
 5. BOX SPACING (inner & outer)
 	>padding
 	>marging
-	
+
 6. BOX MAX-WIDTH CSS
 
 7. POSITIONS ( absolute & relative & statice & z-index )
@@ -33,17 +33,17 @@
 	 >image-side-pan
 	 >image-vertical-pan
 	 >image-fade-in
-	 >image-fade-out 
+	 >image-fade-out
 	 >image-rotate
 	 >image-sepia
 	 >image-blurr
 	 >image-blurr-invert
 	 >image off color
 	 >image on color
- 
+
 
 11. CONTENT SHOW ON IMAGE BOX
- 
+
 12. FORM ELEMENTS
 
 13. WP DEFAULT
@@ -60,33 +60,33 @@
 	>mena-menu
 	>mobile-menu
 	>footer-menu
-	
+
 19. BANNER
 
 20. SLIDER
 	>rs slider
 	>owl slider
-	
+
 21. BLOG
-	
+
 22. WIDGETS
 
 23. CUSTOMIZE CSS
 	>set-radius
 	>transition
 	>float-clearfix
-	
-24. SORTCODES 
+
+24. SORTCODES
 	>Buttons
-	>Title separators		
-	>Deviders	
-	>Lists & bullets	
+	>Title separators
+	>Deviders
+	>Lists & bullets
 	>Tabs
-	>Accordians		
-	>Carousels	
-	>Testimonials	
+	>Accordians
+	>Carousels
+	>Testimonials
 	>Pricing table
-	>Alert box	
+	>Alert box
 	>Modal pop
 	>Social icons
 	>Breadcrumb
@@ -106,7 +106,7 @@
 30. ONE-PAGE-LAYOUT
 
 ======================================
-  * END TABLE CONTENT *  
+  * END TABLE CONTENT *
 ======================================
 */
 /*--------------------------------------------------------------
@@ -115,8 +115,8 @@
 
 body {
     background-color: #FFF;
-    font-family: 'Raleway', sans-serif;
-    font-size: 16px;
+    font-family: 'El Messiri', sans-serif;
+    font-size: 18px;
     font-weight: 400;
     color:#6f6f6f;
     padding: 0;
@@ -219,7 +219,7 @@ h4,
 h5,
 h6 {
     color: #232323;
-    font-family: "Nunito",sans-serif;
+    font-family: "El Messiri",sans-serif;
 }
 h1 a,
 h2 a,
@@ -1305,16 +1305,16 @@ dl dd {
     height: 100%;
     opacity: 0;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+0,0.65+100 */
-    
+
     background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 100%);
     /* FF3.6-15 */
-    
+
     background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 100%);
     /* Chrome10-25,Safari5.1-6 */
-    
+
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    
+
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000', GradientType=0);
     /* IE6-9 */
 }
@@ -1508,25 +1508,25 @@ dl dd {
     opacity: 0.7 !important
 }
 /* Overlay Gradient */
-.gradient.dez-img-overlay1:before, 
-.gradient.dez-img-overlay1:after, 
-.gradient.dez-img-overlay2:before, 
-.gradient.dez-img-overlay2:after, 
-.gradient.dez-img-overlay3:before, 
-.gradient.dez-img-overlay3:after, 
-.gradient.dez-img-overlay4:before, 
-.gradient.dez-img-overlay4:after, 
-.gradient.dez-img-overlay5:before, 
-.gradient.dez-img-overlay5:after, 
-.gradient.dez-img-overlay6:before, 
-.gradient.dez-img-overlay6:after, 
-.gradient.dez-img-overlay7:before, 
-.gradient.dez-img-overlay7:after, 
-.gradient.dez-img-overlay8:before, 
-.gradient.dez-img-overlay8:after, 
-.gradient.dez-img-overlay9:before, 
-.gradient.dez-img-overlay9:after, 
-.gradient.dez-img-overlay11:before, 
+.gradient.dez-img-overlay1:before,
+.gradient.dez-img-overlay1:after,
+.gradient.dez-img-overlay2:before,
+.gradient.dez-img-overlay2:after,
+.gradient.dez-img-overlay3:before,
+.gradient.dez-img-overlay3:after,
+.gradient.dez-img-overlay4:before,
+.gradient.dez-img-overlay4:after,
+.gradient.dez-img-overlay5:before,
+.gradient.dez-img-overlay5:after,
+.gradient.dez-img-overlay6:before,
+.gradient.dez-img-overlay6:after,
+.gradient.dez-img-overlay7:before,
+.gradient.dez-img-overlay7:after,
+.gradient.dez-img-overlay8:before,
+.gradient.dez-img-overlay8:after,
+.gradient.dez-img-overlay9:before,
+.gradient.dez-img-overlay9:after,
+.gradient.dez-img-overlay11:before,
 .gradient.dez-img-overlay11:after{
 		background: #ff709b; /* Old browsers */
 		background: -moz-linear-gradient(top, #ff709b 0%, #ff2b6e 100%); /* FF3.6-15 */
@@ -1546,7 +1546,7 @@ dl dd {
 	 >image-side-pan
 	 >image-vertical-pan
 	 >image-fade-in
-	 >image-fade-out 
+	 >image-fade-out
 	 >image-rotate
 	 >image-sepia
 	 >image-blurr
@@ -2409,7 +2409,7 @@ blockquote:before {
 	color:#444444;
 }
 .topbar-social li a{
-	padding: 0 6px; 
+	padding: 0 6px;
 }
 @media only screen and (max-width: 767px) {
     .top-bar [class*="col-"] {
@@ -2421,8 +2421,8 @@ blockquote:before {
     .top-bar [class*="col-"]:last-child {
         border-bottom: none;
     }
-	.dez-topbar-center, 
-	.dez-topbar-left, 
+	.dez-topbar-center,
+	.dez-topbar-left,
 	.dez-topbar-right{
 		width:100%;
 		text-align:center;
@@ -2902,7 +2902,7 @@ blockquote:before {
 }
 /* Header Center */
 .site-header .b{
-	
+
 }
 .site-header.center .header-nav .nav {
     display: inline-block;
@@ -2979,7 +2979,7 @@ blockquote:before {
 	}
 	.site-header.center .is-fixed .header-nav .nav{
 		height:auto;
-		
+
 	}
 }
 
@@ -3022,7 +3022,7 @@ blockquote:before {
 .cart-list.dropdown-menu{
 	width:260px;
 	margin-top: 30px;
-	
+
 }
 .is-fixed .cart-list.dropdown-menu{
 	margin-top: 18px;
@@ -3076,7 +3076,7 @@ blockquote:before {
 }
 @media only screen and (max-width: 991px) {
     /* responsive strat when media screen [991px] css START*/
-    
+
     .navbar-header {
         float: none;
     }
@@ -3088,11 +3088,11 @@ blockquote:before {
     }
     .navbar-collapse.collapse.in {
         /* NEW */
-        
+
         display: block!important;
     }
     /* responsive strat when medai screen [991px] css END*/
-    
+
     .header-nav {
         clear: both;
         margin: 0 -15px;
@@ -3327,8 +3327,8 @@ blockquote:before {
 	background-color:#fff;
 	box-shadow:0 0 4px 0 rgba(0,0,0,0.2);
 }
-.header-transparent .is-fixed .header-nav .nav > li > a, 
-.header-transparent .is-fixed .extra-nav .site-button-link, 
+.header-transparent .is-fixed .header-nav .nav > li > a,
+.header-transparent .is-fixed .extra-nav .site-button-link,
 .header-transparent .is-fixed .navbar-toggle{
 	color:#000;
 }
@@ -3342,8 +3342,8 @@ blockquote:before {
 .header-transparent.overlay .main-bar{
 	background-color:rgba(0,0,0,0.5);
 }
-.header-transparent.overlay .header-nav .nav > li > a, 
-.header-transparent.overlay .extra-nav .site-button-link, 
+.header-transparent.overlay .header-nav .nav > li > a,
+.header-transparent.overlay .extra-nav .site-button-link,
 .header-transparent.overlay .navbar-toggle{
 	color:#fff;
 }
@@ -3672,8 +3672,8 @@ blockquote:before {
 .dez-bnr-inr.tb h5,
 .dez-bnr-inr.tb h6,
 .dez-bnr-inr.tb .text-white,
-.dez-bnr-inr.tb .breadcrumb-row ul li, 
-.dez-bnr-inr.tb .breadcrumb-row ul li:after, 
+.dez-bnr-inr.tb .breadcrumb-row ul li,
+.dez-bnr-inr.tb .breadcrumb-row ul li:after,
 .dez-bnr-inr.tb .breadcrumb-row ul li:last-child {
 	color:#000;
 }
@@ -3705,7 +3705,7 @@ blockquote:before {
 	display: inline-block;
 }
 .dez-bnr-inr.banner-content .site-button {
-	padding: 13px 35px;	
+	padding: 13px 35px;
 	font-size: 16px;
 }
 /* Banner  */
@@ -3728,7 +3728,7 @@ blockquote:before {
 	opacity:0.8;
 }
 .next-element i{
-	
+
 }
 .dez-bnr-inr .breadcrumb-row ul li:after,
 .dez-bnr-inr .breadcrumb-row ul li:last-child{
@@ -5151,24 +5151,24 @@ a,
     border-color: #3c763d !important;
 }
 /*---------------------------------------------------------------
-24. SORTCODES 
+24. SORTCODES
 	>Buttons
-	>Title separators		
-	>Deviders	
-	>Lists & bullets	
+	>Title separators
+	>Deviders
+	>Lists & bullets
 	>Tabs
-	>Accordians		
+	>Accordians
 	>Carousels
-	>Testimonials	
+	>Testimonials
 	>Pricing table
-	>Alert box	
+	>Alert box
 	>Modal pop
 	>Social icons
 	>Breadcrumb
 	>Tables
 	>Image effects
 	>Icon boxes
-	>Box New Style 
+	>Box New Style
 ---------------------------------------------------------------*/
 /*== >Buttons ======= */
 /* owl slider button */
@@ -5319,13 +5319,13 @@ a,
     color: hsl(0, 0%, 100%);
 }
 /* Bootstrap Btn Size */
-.btn-group-lg > .btn, 
+.btn-group-lg > .btn,
 .btn-lg {
     border-radius:4px;
     font-size:20px;
     padding: 12px 24px;
 }
-.btn-group-sm > 
+.btn-group-sm >
 .btn, .btn-sm {
     border-radius: 3px;
     font-size: 12px;
@@ -6974,7 +6974,7 @@ a,
 	color:#000;
 }
 .dez-accordion.primary.active-bg .acod-head .collapsed{
-	border:1px solid #ebedf2; 
+	border:1px solid #ebedf2;
 }
 /* gradient1 */
 .dez-accordion.gradient-1 .acod-head a{
@@ -7015,7 +7015,7 @@ a,
 }
 .dez-accordion.gradient-1.active-bg .acod-head .collapsed,
 .dez-accordion.gradient-2.active-bg .acod-head .collapsed{
-	border:1px solid #ebedf2; 
+	border:1px solid #ebedf2;
 }
 /* Green */
 .dez-accordion.green .acod-head a{
@@ -7037,7 +7037,7 @@ a,
 	color:#000;
 }
 .dez-accordion.green.active-bg .acod-head .collapsed{
-	border:1px solid #ebedf2; 
+	border:1px solid #ebedf2;
 }
 /* Yellow */
 .dez-accordion.yellow .acod-head a{
@@ -7059,7 +7059,7 @@ a,
 	color:#000;
 }
 .dez-accordion.yellow.active-bg .acod-head .collapsed{
-	border:1px solid #ebedf2; 
+	border:1px solid #ebedf2;
 }
 /* red */
 .dez-accordion.red .acod-head a{
@@ -7081,7 +7081,7 @@ a,
 	color:#000;
 }
 .dez-accordion.red.active-bg .acod-head .collapsed{
-	border:1px solid #ebedf2; 
+	border:1px solid #ebedf2;
 }
 /* blue */
 .dez-accordion.blue .acod-head a{
@@ -7103,7 +7103,7 @@ a,
 	color:#000;
 }
 .dez-accordion.blue.active-bg .acod-head .collapsed{
-	border:1px solid #ebedf2; 
+	border:1px solid #ebedf2;
 }
 /*== accordian title bottom bordered with colored ==*/
 
@@ -7291,7 +7291,7 @@ a,
     padding: 7px 15px;
     position: absolute;
     top: -34px;
-    width: 100%;	
+    width: 100%;
 }
 .blog-info li{
 	display:inline-block;
@@ -7598,7 +7598,7 @@ a,
 .testimonial-6 .quote-left:before {
     left: 15px;
 }
-.testimonial-6 .quote-left:before, 
+.testimonial-6 .quote-left:before,
 .testimonial-6 .quote-right:after {
     color: #b5b5b5;
     font-size: 18px;
@@ -7698,7 +7698,7 @@ a,
     position: absolute;
     right: 0;
 }
-.testimonial-7 .owl-prev, 
+.testimonial-7 .owl-prev,
 .testimonial-7 .owl-next {
     background-color: #cccccc;
     border: 0 none;
@@ -7812,7 +7812,7 @@ a,
 }
 .counter-style-1 .counter-text,
 .counter-style-2 .counter-text{
-	font-size:16px;	
+	font-size:16px;
 	font-weight: 500;
 }
 .counter-style-1 .icon{
@@ -7839,7 +7839,7 @@ a,
 	font-weight:500;
 }
 .counter-style-4 .counter-text{
-	font-size:18px;	
+	font-size:18px;
 	font-weight: 500;
 }
 .counter-style-4 .icon{
@@ -8149,13 +8149,13 @@ a,
 .overlay-gradient-dark:after {
     background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 100%);
     /* FF3.6-15 */
-    
+
     background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 100%);
     /* Chrome10-25,Safari5.1-6 */
-    
+
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    
+
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000', GradientType=0);
     /* IE6-9 */
 }
@@ -8800,7 +8800,7 @@ a,
 ---------------------------------------------------------------*/
 /*newslatter*/
 @media only screen and (max-width: 767px) {
-    
+
 }
 
 /* footer fixed on bottom css*/
@@ -9067,7 +9067,7 @@ footer.text-white,
 footer.text-white .footer-bottom,
 footer.text-white .footer-bottom a,
 footer.text-white .form-control::-moz-placeholder,
-footer.text-white a, 
+footer.text-white a,
 footer.text-white a:visited,
 footer.text-white a:active,
 footer.text-white a:focus,
@@ -9391,7 +9391,7 @@ ol.commentlist li .star-rating {
     z-index: 999;
     display: none;
     overflow: hidden;
-	
+
 }
 .dez-quik-search.On form {
 	transition:all 0.5s ease 0.5s;
@@ -9531,7 +9531,7 @@ ol.commentlist li .star-rating {
 29. SIDE-NAV
 ---------------------------------------------------------------*/
 .sidenav.cs-sidenav {
-	width:800px;	
+	width:800px;
 	right:-820px;
 	left:auto;
 }
@@ -9724,15 +9724,15 @@ ol.commentlist li .star-rating {
 .full-blog-dark .dez-full-blog .dez-post-tags {
     background-color: #090909;
 }
-.blog-page-content .dez-blog-grid-3 .blog-post{ 
+.blog-page-content .dez-blog-grid-3 .blog-post{
 	margin-bottom:20px;
 }
-.blog-page-content .dez-blog-grid-3{ 
+.blog-page-content .dez-blog-grid-3{
 	margin-left:-10px;
 	margin-right:-10px;
 }
-.blog-page-content .dez-blog-grid-3 [class*="col-md-"]{ 
-	padding-left:10px; 
+.blog-page-content .dez-blog-grid-3 [class*="col-md-"]{
+	padding-left:10px;
 	padding-right:10px;
 }
 /* Blog Section Dark */
@@ -9819,7 +9819,7 @@ ol.commentlist li .star-rating {
 	.our-gallery  h3.h3{
 		font-size:18px;
 	}
-	.our-gallery .dez-img-effect .site-button{ 
+	.our-gallery .dez-img-effect .site-button{
 		display:none;
 	}
 }
@@ -9827,21 +9827,21 @@ ol.commentlist li .star-rating {
 	.header-nav .nav i{
 		display:block;
 	}
-	.our-gallery .dez-img-effect .site-button{ 
+	.our-gallery .dez-img-effect .site-button{
 		display:block;
 	}
 	.overlay-50:after {
 		width: 100%;
-	}	
+	}
 	.slide-contant-btn .site-button`{
 		margin-top:50px;
 	}
 }
 @media only screen and (max-width: 767px) {
-	.worker{ 
-		margin-bottom:30px; 
+	.worker{
+		margin-bottom:30px;
 	}
-	.footer-info-box .text-right, 
+	.footer-info-box .text-right,
 	.footer-info-box .text-left,
 	.newsletter	strong {
 		text-align:center;
@@ -9855,11 +9855,11 @@ ol.commentlist li .star-rating {
 	}
 }
 @media only screen and (max-width: 320px) {
-	.logo-header, 
+	.logo-header,
 	.is-fixed.header-curve .logo-header{
 		width:150px;
-	} 
-	.is-fixed .logo-header, 
+	}
+	.is-fixed .logo-header,
 	.is-fixed.header-curve .logo-header{
 		width:150px;
 	}
@@ -9873,21 +9873,21 @@ ol.commentlist li .star-rating {
 }
 
 /* spacial */
-.bg-primary a:hover{ 
-	color:#fff; 
+.bg-primary a:hover{
+	color:#fff;
 }
-.dez-button-block .site-button{ 
-	margin-bottom:10px; 
-} 
+.dez-button-block .site-button{
+	margin-bottom:10px;
+}
 /*==== Particles ====*/
-#particles-js .container{ 
-	z-index:2; 
+#particles-js .container{
+	z-index:2;
 }
 .particles-js-canvas-el {
     position: absolute;
     top: 0;
     z-index: 1;
-}	
+}
 #loading-area {
     width: 100%;
     height: 100%;
@@ -9903,7 +9903,7 @@ ol.commentlist li .star-rating {
     background-position: center;
 }
 /* =============================
-	Spacing End Alignment	
+	Spacing End Alignment
 ============================= */
 .site-footer .widget_getintuch{
 	padding-top:0;
