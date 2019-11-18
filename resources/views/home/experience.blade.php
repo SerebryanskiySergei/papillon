@@ -7,18 +7,18 @@
                     <img src="images/skew/moving-bg2.svg" data--200-bottom-top="transform: translateY(50px);" data-top="transform: translateY(-10px);" alt=""/>
                     <div class="callout-content ">
                         <div class="text-white max-w600 m-auto text-center m-b50">
-                            <h2 class="spa-title-head text-fly">Experience The Spa!</h2>	
-                            <p class="font-16 text-fly">Happpy Day Spa is where you can find balance, harmony and energy renewal amidst the hectic bustle of everyday pressures and deadlines. Relax & enjoy a personalized day spa experience in our comfortable sanctuary.</p>
+                            <h2 class="spa-title-head text-fly">Профи в деле</h2>
+                            <p class="font-16 text-fly">Здесь можно ознакомится со всеми видами и особенностями техник исполнения процедуры депиляции, которые используются в нашем салоне.</p>
                         </div>
                         <div class="row text-center">
                             <div class="col-md-4 col-sm-4 m-b30 wow fadeInUp" data-wow-duration="1.50s" data-wow-delay="0.1s">
                                 <div class="icon-bx-wraper center bg-white" data-tilt="">
                                     <div class="icon-content">
                                         <p class="font-16">We’re the city’s experts on everything skin and body. No BS, just the best.</p>
-                                        <div class="icon-md m-b15"> 
+                                        <div class="icon-md m-b15">
                                             <i class="fa fa-star text-primary"></i>
                                         </div>
-                                        <h5 class="dez-tilte text-uppercase font-26">pleasing services</h5>
+                                        <h5 class="dez-tilte text-uppercase font-26">Полимерная</h5>
                                     </div>
                                 </div>
                             </div>
@@ -26,27 +26,27 @@
                                 <div class="icon-bx-wraper center bg-white" data-tilt="">
                                     <div class="icon-content">
                                         <p class="font-16">We’re the city’s experts on everything skin and body. No BS, just the best.</p>
-                                        <div class="icon-md m-b15"> 
+                                        <div class="icon-md m-b15">
                                             <i class="fa fa-star text-primary"></i>
                                         </div>
-                                        <h5 class="dez-tilte text-uppercase font-26">pleasing services</h5>
+                                        <h5 class="dez-tilte text-uppercase font-26">Ваксинг</h5>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-4 m-b30 wow fadeInUp" data-wow-duration="1.50s" data-wow-delay="0.9s">
-                                <div class="icon-bx-wraper center bg-white" data-tilt=""> 
+                                <div class="icon-bx-wraper center bg-white" data-tilt="">
                                     <div class="icon-content">
                                         <p class="font-16">We’re the city’s experts on everything skin and body. No BS, just the best.</p>
-                                        <div class="icon-md m-b15"> 
+                                        <div class="icon-md m-b15">
                                             <i class="fa fa-star text-primary"></i>
                                         </div>
-                                        <h5 class="dez-tilte text-uppercase font-26">pleasing services</h5>
+                                        <h5 class="dez-tilte text-uppercase font-26">Шугаринг</h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div> 
-                </div> 
+                    </div>
+                </div>
             </div>
         </div>
     </div>

@@ -13,18 +13,18 @@
         @component('home.our-services')
         @endcomponent
         <!-- Our Services -->
-        <!-- Spa & Beauty Care -->
-        @component('home.spa-services')
-        @endcomponent
-        <!-- Spa & Beauty Care End -->
-        <!-- Callout With Moving BG -->
-        @component('home.moving-bg')
-        @endcomponent
-        <!-- Callout With Moving BG End -->
         <!-- New Treatments -->
         @component('home.treatments')
         @endcomponent
         <!-- New Treatments END -->
+        <!-- Callout With Moving BG -->
+        @component('home.moving-bg')
+        @endcomponent
+        <!-- Callout With Moving BG End -->
+        <!-- Spa & Beauty Care -->
+        @component('home.spa-services')
+        @endcomponent
+        <!-- Spa & Beauty Care End -->
         <!-- Experience The Spa -->
         @component('home.experience')
         @endcomponent
