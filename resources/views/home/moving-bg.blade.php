@@ -5,11 +5,10 @@
                 <div class="callout-box">
                     <img src="images/skew/moving-bg.svg" data--200-bottom-top="transform: translateY(50px);" data-top="transform: translateY(-5px);" alt=""/>
                     <div class="callout-content text-white">
-                        <h2 class="spa-title-head text-fly">Callout With Moving BG</h2>	
-                        <p class=" text-fly">The spa Philosophy says women are born beautiful, the aim is to enhance and perfect. Luxurious treatments are designed to simultaneously transform the spirit and beautify the body.</p>
-                        <a href="#" class="site-button button-lg radius-xl fley white">Read More</a>
-                    </div> 
-                </div> 
+                        <h2 class="spa-title-head text-fly">Средства для депиляции только лучшего качества</h2>
+                        <p class=" text-fly">Философия нашего салона подчеркивает необходимость использовать качетсвенные и проверенные средства от знакомых поставщиков. Весь наш арсенал прошел многолетнюю опытную проверку в ходе множества процедур и доказал свое превосходство.</p>
+                    </div>
+                </div>
             </div>
             <div class="col-md-2 col-lg-5 col-sm-12 text-right equal-col dis-tbl wow fadeInRight" data-wow-duration="1.80s" data-wow-delay="0.02s">
                 <div class="dis-tbl-cell-b">

@@ -74,11 +74,10 @@
                     <!-- main nav -->
                     <div class="header-nav navbar-collapse collapse">
                         <ul class="nav navbar-nav">
-							<li class="active"> <a href="javascript:;">Главная</a></li>
-							<li> <a href="javascript:;">Отзывы</a></li>
+							<li class="active"> <a href="javascript:;">Для нее</a></li>
+                            <li> <a href="javascript:;">Для него</a></li>
+                            <li> <a href="javascript:;">Отзывы</a></li>
 							<li> <a href="javascript:;">Прайс</a></li>
-							<li> <a href="javascript:;">Для неё</a></li>
-							<li class="has-mega-menu "> <a href="javascript:;">Для него</a></li>
 						</ul>
                     </div>
                 </div>
