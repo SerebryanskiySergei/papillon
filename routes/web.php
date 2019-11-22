@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/for_him', function () {
+    return view('comin_soon');
+});

@@ -1,5 +1,8 @@
 <div class="section-full content-inner bg-white contact-style-1 bgeffect" style="background-image:url(images/background/bg12.jpg);" data-0="background-position:0px 0px;" data-end="background-position:0px 2000px;">
     <div class="container">
+        <div class="section-head text-center">
+            <h2 class="heading-top">Свяжитесь с нами!</h2>
+        </div>
         <div class="row">
             <div class="col-md-4 col-sm-4 m-b30">
                 <div class="icon-bx-wraper bx-style-1 p-a30 center">

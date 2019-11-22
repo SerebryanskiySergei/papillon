@@ -17,6 +17,10 @@
         @component('home.reviews')
         @endcomponent
         <!-- people reviews END -->
+        <!-- Price Table -->
+        @component('home.prices')
+        @endcomponent
+        <!-- Price Table End -->
         <!-- contact area -->
         @component('home.contacts')
         @endcomponent
@@ -25,10 +29,10 @@
         @component('home.pop_questions')
         @endcomponent
         <!-- New Treatments END -->
-        <!-- Spa & Beauty Care -->
+        <!-- Gifts & Cards -->
         @component('home.our_resources')
         @endcomponent
-        <!-- Spa & Beauty Care End -->
+        <!-- Gifts & Cards End -->
         <!-- Experience The Spa -->
         @component('home.technics')
         @endcomponent

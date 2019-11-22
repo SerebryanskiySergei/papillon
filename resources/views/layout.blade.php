@@ -76,7 +76,7 @@
                     <div class="header-nav navbar-collapse collapse">
                         <ul class="nav navbar-nav">
 							<li class="active"> <a href="javascript:;">Для нее</a></li>
-                            <li> <a href="javascript:;">Для него</a></li>
+                            <li> <a href="/for_him">Для него</a></li>
                             <li> <a href="javascript:;">Отзывы</a></li>
 							<li> <a href="javascript:;">Прайс</a></li>
 						</ul>
