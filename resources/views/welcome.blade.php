@@ -25,10 +25,6 @@
         @component('home.pop_questions')
         @endcomponent
         <!-- New Treatments END -->
-        <!-- Callout With Moving BG -->
-        @component('home.moving-bg')
-        @endcomponent
-        <!-- Callout With Moving BG End -->
         <!-- Spa & Beauty Care -->
         @component('home.our_resources')
         @endcomponent
