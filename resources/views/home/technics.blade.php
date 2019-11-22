@@ -16,7 +16,7 @@
                                     <div class="icon-content">
                                         <p>В индустрии красоты постоянно появляются новые разработки, позволяющие избавляться от нежелательных волосков. Полимерная депиляция Skin`s – одно из таких открытий. Это новое слово в индустрии, обладающее многими преимуществами.</p>
                                         <div class="align-bottom">
-                                            <h5 class="dez-tilte text-uppercase font-26">Скинс</h5>
+                                            <h5 class="dez-tilte text-uppercase font-26">Полимер</h5>
                                             <button class="site-button" type="button"><a href="#">УЗНАТЬ БОЛЬШЕ</a></button>
                                         </div>
                                     </div>

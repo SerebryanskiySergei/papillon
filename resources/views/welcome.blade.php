@@ -13,6 +13,14 @@
         @component('home.our_benefits')
         @endcomponent
         <!-- Our Services -->
+        <!-- people reviews -->
+        @component('home.reviews')
+        @endcomponent
+        <!-- people reviews END -->
+        <!-- contact area -->
+        @component('home.contacts')
+        @endcomponent
+        <!-- contact area END -->
         <!-- New Treatments -->
         @component('home.pop_questions')
         @endcomponent
@@ -29,6 +37,10 @@
         @component('home.technics')
         @endcomponent
         <!-- Experience The Spa End -->
+        <!-- contact area -->
+        @component('home.contacts')
+        @endcomponent
+        <!-- contact area END -->
     </div>
     <!-- Contact Area END -->
 </div>
