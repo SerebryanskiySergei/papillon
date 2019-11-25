@@ -10,7 +10,7 @@
                                 <div class="icon-xl text-primary m-b10"> <a href="#" class="icon-cell text-primary"><i class="flaticon-relax-1"></i></a> </div>
                                 <div class="icon-content">
                                     <h3 class="dez-tilte text-uppercase font-weight-600">Быстро</h3>
-                                    <p>Только в нашем салоне процесс депиялции пройдет максимально быстро. Мы используем тоьлко щадящие и натуральные средства.</p>
+                                    <p>В нашем салоне процесс депиляции отнимет у тебя всего от 15 до 30 минут в зависимости от зоны.</p>
                                 </div>
                             </div>
                         </div>
@@ -21,7 +21,7 @@
                                 <div class="icon-xl text-primary m-b10"> <a href="#" class="icon-cell text-primary"><i class="flaticon-female-hairs"></i></a> </div>
                                 <div class="icon-content">
                                     <h3 class="dez-tilte text-uppercase font-weight-600">Качественно</h3>
-                                    <p>Мы используем только сертифицированную продукцию исключительно высшего качества, с который пир желании ты можешь ознакомиться и попробовать самостоятельно.</p>
+                                    <p>Мы работаем только с сертифицированной и исключительно высшего качества продукцией, с которой при желании ты можешь сама ознакомиться.</p>
                                 </div>
                             </div>
                         </div>
@@ -32,7 +32,7 @@
                                 <div class="icon-xl text-primary m-b10"> <a href="#" class="icon-cell text-primary"><i class="flaticon-massage"></i></a> </div>
                                 <div class="icon-content">
                                     <h3 class="dez-tilte text-uppercase font-weight-600">Комфортно</h3>
-                                    <p>Наш мастер работает в данной сфере уже более 5-ти лет и испробовал разные методики удаления волос. Это неверотяно, но у нас процедура стала практически безболезненной в связи с тем, что наш мастер владеет всеми техниками исполнения и использует индивидуальный подход к каждому, комбинирую техники и продукцию.</p>
+                                    <p>Это невероятно, но у нас процедура стала практически безболезненной в связи с тем, что мы используем только щадящие и натуральные средства, а наш мастер владеет всеми техниками исполнения, комбинируя их и продукцию.</p>
                                 </div>
                             </div>
                         </div>
@@ -48,11 +48,11 @@
             <div class="row dzseth">
                 <div class="col-md-7 col-sm-6 dis-tbl">
                     <div class="dis-tbl-cell">
-                        <h2 class="text-primary spa-title-head ">Мастер</h2>
+                        <h2 class="text-primary spa-title-head ">Мастер Елизавета</h2>
                         <div class="dez-separator spa bg-primary"></div>
                         <ul class="list-icon-box m-t30">
                             <li style="font-size: 28px"><i class="flaticon-nature text-primary"></i><span>Профессионал своего дела</span></li>
-                            <li style="font-size: 28px"><i class="flaticon-stones text-primary"></i><span>Опыт более 5-ти лет</span></li>
+                            <li style="font-size: 28px"><i class="flaticon-stones text-primary"></i><span>Опыт в данной сфере более 5-ти лет</span></li>
                             <li style="font-size: 28px"><i class="flaticon-spa text-primary"></i><span>Практикует индивидуальный подход к каждому</span></li>
                             <li style="font-size: 28px"><i class="flaticon-essential-oil text-primary"></i><span>Постоянно совершенствует свои навыки</span></li>
                         </ul>

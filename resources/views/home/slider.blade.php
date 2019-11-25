@@ -74,28 +74,9 @@
                                 style="z-index: 6; min-width: 720px; max-width: 720px; white-space: normal;line-height: 26px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:'El Messiri',sans-serif;border-width:0px;">Теперь ты можешь выделять на депиляцию гораздо меньше времени и быть уверенной в комфорте процедуры</div>
 
                             <!-- LAYER NR. 3 -->
-                            <div class="tp-caption rs-parallaxlevel-4"
-                                id="slide-100-layer-4"
-                                data-x="['right','right','right','right']"
-                                data-hoffset="['-50','0','70','40']"
-                                data-y="['middle','middle','middle','middle']"
-                                data-voffset="['20','159','141','85']"
-                                data-height="none"
-                                data-whitespace="nowrap"
-                                data-width="['720','480','480','300']"
-                                data-type="button"
-                                data-actions='[{"event":"click","action":"scrollbelow","offset":"px","delay":""}]'
-                                data-responsive_offset="off"
-                                data-responsive="off"
-                                data-frames='[{"from":"y:10px;sX:0.9;sY:0.9;opacity:0;","speed":1000,"to":"o:1;","delay":1000,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
-                                data-textAlign="['left','left','left','left']"
-                                data-paddingtop="[0,0,0,0]"
-                                data-paddingright="[0,0,0,0]"
-                                data-paddingbottom="[0,0,0,0]"
-                                data-paddingleft="[0,0,0,0]"
-                                style="z-index: 9;"><a href="#" class="site-button white">УЗНАТЬ БОЛЬШЕ</a></div>
+
                                 <!-- LAYER NR. 4 -->
-                                <div class="tp-caption   tp-resizeme rs-parallaxlevel-7"
+                                <div class="tp-caption tp-resizeme rs-parallaxlevel-7"
                                     id="slide-100-layer-5"
                                     data-x="['left','left','left','left']"
                                     data-hoffset="['500','500','200','200']"
@@ -209,33 +190,12 @@
                                 data-responsive="off"
                                 data-frames='[{"from":"y:10px;sX:0.9;sY:0.9;opacity:0;","speed":1000,"to":"o:1;","delay":700,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
                                 data-textAlign="['left','left','left','left']"
-                                data-paddingtop="[0,0,0,0]"
+                                data-paddingtop="[50,50,50,50]"
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 720px; max-width: 720px; white-space: normal;line-height: 26px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:'El Messiri',sans-serif;border-width:0px;">Теперь депиляция занимает гораздо меньше времени и является практически безболезненной.</div>
+                                 style="z-index: 6; min-width: 720px; max-width: 720px; white-space: normal;line-height: 26px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:'El Messiri',sans-serif;border-width:0px;">Это стало возможно благодаря разработкt Совершенно Нового продукта с Особым составом, обеспечивающим минимальную чувствительность и максимальный комфорт, а также сокращающим время посещения салона <i>всего до 15 минут</i></div>
 
-                            <!-- LAYER NR. 3 -->
-                            <div class="tp-caption rs-parallaxlevel-4"
-                                id="slide-200-layer-4"
-                                data-x="['right','right','right','right']"
-                                data-hoffset="['-50','0','70','40']"
-                                data-y="['middle','middle','middle','middle']"
-                                data-voffset="['20','159','141','85']"
-                                data-height="none"
-                                data-whitespace="nowrap"
-                                data-width="['720','480','480','300']"
-                                data-type="button"
-                                data-actions='[{"event":"click","action":"scrollbelow","offset":"px","delay":""}]'
-                                data-responsive_offset="off"
-                                data-responsive="off"
-                                data-frames='[{"from":"y:10px;sX:0.9;sY:0.9;opacity:0;","speed":1000,"to":"o:1;","delay":1000,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
-                                data-textAlign="['left','left','left','left']"
-                                data-paddingtop="[0,0,0,0]"
-                                data-paddingright="[0,0,0,0]"
-                                data-paddingbottom="[0,0,0,0]"
-                                data-paddingleft="[0,0,0,0]"
-                                style="z-index: 9;"><a href="#" class="site-button white">УЗНАТЬ БОЛЬШЕ</a></div>
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-7"
                                     id="slide-200-layer-5"

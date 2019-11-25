@@ -34,8 +34,8 @@
         @endcomponent
         <!-- Gifts & Cards End -->
         <!-- Experience The Spa -->
-        @component('home.technics')
-        @endcomponent
+{{--        @component('home.technics')--}}
+{{--        @endcomponent--}}
         <!-- Experience The Spa End -->
         <!-- contact area -->
         @component('home.contacts')
