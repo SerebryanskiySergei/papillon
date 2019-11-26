@@ -66,7 +66,7 @@
                 <div class="container-fluid clearfix">
                     <!-- website logo -->
                     <div class="logo-header mostion">
-						<a href="index.html"><img src="images/logo.png" alt=""></a>
+						<a href="index.html"><img src="images/logo-papillon.png" alt=""></a>
 					</div>
                     <!-- nav toggle button -->
                     <button data-target=".header-nav" data-toggle="collapse" type="button" class="navbar-toggle collapsed" aria-expanded="false" >
@@ -98,7 +98,7 @@
                         <div class="p-tb60 p-lr15">
                             <div class="max-w600">
                                 <div class="footer-logo m-b30">
-                                    <img src="images/logo-white1.png" alt="" width="120"/>
+                                    <img src="images/logo-papillon-white.png" alt="" width="120"/>
                                 </div>
                                 <div class="m-b0">
                                     <h5 class="m-b10 text-white">Мы ждем вас по адресу:</h5>
