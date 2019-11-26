@@ -103,7 +103,7 @@
                                 <div class="m-b0">
                                     <h5 class="m-b10 text-white">Мы ждем вас по адресу:</h5>
                                     <p>г. Воронеж, ул. Свободы, д. 14 (БЦ БИК), 8 этаж, оф. 808</p>
-                                    <p class="m-b25">График работы: с 8:00 до 20:00 без выходных</p>
+                                    <p class="m-b25">График работы: с 8:00 до 22:00, без выходных</p>
                                     <div class="subscribe-form m-b20">
                                         <form role="search">
                                             <div class="input-group">
