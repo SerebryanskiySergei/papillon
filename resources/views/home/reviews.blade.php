@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="sort-title text-white clearfix text-center">
-                    <h4>Слова наших клиентов</h4>
+                    <h4 style="font-size: 32px">Слова наших клиентов</h4>
                 </div>
                 <div class="section-content m-b30">
                     <div class="testimonial-three">
