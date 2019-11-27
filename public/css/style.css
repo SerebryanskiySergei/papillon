@@ -7365,6 +7365,8 @@ a,
 }
 .testimonial-text p:last-child {
     margin: 0;
+    font-weight: 600;
+    text-shadow: black 2px 1px;
 }
 /*testimonial with background image*/
 
