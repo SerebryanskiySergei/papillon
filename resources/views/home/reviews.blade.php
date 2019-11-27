@@ -70,7 +70,8 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-body">
-                <form method="post" class="p-b20" action="reviews">
+                <form method="post" class="p-b20" action="{{url('reviews')}}">
+                    @csrf
                     <div class="row">
                         <button name="Resat" type="reset" value="Reset" data-dismiss="modal" class="close-btn">&times; </button>
                         <div class="col-md-12 text-center text-white">
