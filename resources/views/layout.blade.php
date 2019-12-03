@@ -13,7 +13,7 @@
 <meta name="description" content="" />
 <meta name="format-detection" content="telephone=no">
 <!-- Favicons Icon -->
-<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="images/favicon.png" type="image/x-icon" />
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 <!-- Page Title Here -->
 <title>Papillon - Салон депиляции</title>
