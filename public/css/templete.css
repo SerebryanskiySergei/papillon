@@ -855,7 +855,7 @@ footer .footer-bottom .fa-heart {
     color: #ffffff;
     font-size: 40px;
     font-weight: 700;
-	font-family:"Nunito",sans-serif;
+	font-family:"El Messiri",sans-serif;
     height: 80px;
     line-height: 80px;
     text-align: center;
@@ -1385,7 +1385,7 @@ footer.spa-footer .widget_services ul li a {
     padding: 15px;
 }
 .pricing-plans  .pricingtable-price span{
-	font-family: nunito;
+	font-family: 'El Messiri';
 }
 .pricing-plans  .pricingtable-price .pricingtable-bx{
 	font-size: 48px;
@@ -1561,4 +1561,57 @@ footer.spa-footer .widget_services ul li a {
 	.home-footer-2 .promotions {
 		width: 70%;
 	}
+}
+
+/* contact form */
+.contact-form .modal-dialog{
+    width:auto;
+    max-width:450px;
+}
+.modal-content {
+    background-color: #333333;
+    border-radius: 0;
+}
+.modal-content .form-control {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-color: rgba(255, 255, 255, 0.1);
+    border-radius: 30px;
+    min-height: 45px;
+    padding: 10px 20px;
+    color: white;
+    font-size: 16px;
+}
+.modal-content .input-group:hover .form-control,
+.modal-content .input-group:focus .form-control,
+.modal-content .input-group:focus .input-group-addon,
+.modal-content .input-group:hover .input-group-addon{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-color: rgba(255, 255, 255, 0.5);
+    border-radius: 0;
+}
+.modal-backdrop.in {
+    background-color: rgba(0, 0, 0, 0.3);
+    background-image: url("../images/overlay/rrdiagonal-line.png");
+    opacity: 1;
+}
+.close-btn {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 0 none;
+    color: #ffffff;
+    font-size: 38px;
+    height: 20px;
+    line-height: 20px;
+    opacity: 0.4;
+    position: absolute;
+    right: 5px;
+    top: 10px;
+}
+.close-btn:hover{
+    opacity:0.8;
+}
+/* Social Links */
+.social-icon {
+    left: 10px;
+    position: fixed;
+    top: 50%;
 }

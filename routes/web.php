@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/for_him', function () {
     return view('comin_soon');
 });
+Route::post('/reviews', function (Request $request) {
+    return Redirect::to('/');
+});
