@@ -66,7 +66,7 @@
                 <div class="container-fluid clearfix">
                     <!-- website logo -->
                     <div class="logo-header mostion">
-						<a href="index.html"><img src="images/logo-papillon.png" alt=""></a>
+						<a href="/"><img src="images/logo-papillon-transparent.png" alt=""></a>
 					</div>
                     <!-- nav toggle button -->
                     <button data-target=".header-nav" data-toggle="collapse" type="button" class="navbar-toggle collapsed" aria-expanded="false" >
