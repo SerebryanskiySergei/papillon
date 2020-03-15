@@ -11,7 +11,8 @@
                             <div class="pricingtable-price bg-primary"><span class="pricingtable-bx text-white">Шугаринг</span></div>
                             <ul class="pricingtable-features">
                                 <li>250 - Подмышки</li>
-                                <li>600 - Бикини</li>
+                                <li>600 - Бикини глубокое</li>
+                                <li>350 - Бикини классика</li>
                                 <li>100 - Лицо</li>
                                 <li>300 - Руки с локтем</li>
                                 <li>400 - Руки 3/4</li>
@@ -29,7 +30,8 @@
                             <div class="pricingtable-price bg-primary"><span class="pricingtable-bx text-white">Полимер</span></div>
                             <ul class="pricingtable-features">
                                 <li>350 - Подмышки</li>
-                                <li>900 - Бикини</li>
+                                <li>900 - Бикини глубокое</li>
+                                <li>450 - Бикини классика</li>
                                 <li>200 - Лицо</li>
                                 <li>400 - Руки с локтем</li>
                                 <li>550 - Руки 3/4</li>
@@ -47,7 +49,8 @@
                             <div class="pricingtable-price bg-primary"><span class="pricingtable-bx text-white">Ваксинг</span></div>
                             <ul class="pricingtable-features">
                                 <li>200 - Подмышки</li>
-                                <li>600 - Бикини</li>
+                                <li>600 - Бикини глубокое</li>
+                                <li>350 - Бикини классика</li>
                                 <li>100 - Лицо</li>
                                 <li>250 - Руки с локтем</li>
                                 <li>300 - Руки 3/4</li>

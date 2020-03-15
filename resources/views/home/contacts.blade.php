@@ -29,7 +29,7 @@
                     <div class="icon-xl text-primary m-b20"> <a href="#" class="icon-cell"><i class="fa fa-map-marker"></i></a> </div>
                     <div class="icon-content">
                         <h5 class="dez-tilte text-uppercase">Адрес</h5>
-                        <p>Ул. Свободы, д. 14 (БЦ БИК), офис 808</p>
+                        <p>Ул. Свободы, д. 14 (БЦ БИК), офис 811</p>
                     </div>
                 </div>
             </div>

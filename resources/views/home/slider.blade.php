@@ -194,7 +194,7 @@
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                 style="z-index: 6; min-width: 720px; max-width: 720px; white-space: normal;line-height: 26px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:'El Messiri',sans-serif;border-width:0px;">Это стало возможно благодаря разработкt Совершенно Нового продукта с Особым составом, обеспечивающим минимальную чувствительность и максимальный комфорт, а также сокращающим время посещения салона <i>всего до 15 минут</i></div>
+                                 style="z-index: 6; min-width: 720px; max-width: 720px; white-space: normal;line-height: 26px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:'El Messiri',sans-serif;border-width:0px;">Это стало возможно благодаря разработке Совершенно Нового продукта с Особым составом, обеспечивающим минимальную чувствительность и максимальный комфорт, а также сокращающим время посещения салона <i>всего до 15 минут</i></div>
 
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-7"

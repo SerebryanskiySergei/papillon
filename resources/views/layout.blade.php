@@ -47,7 +47,6 @@
 				<div class="row">
 					<div class="dez-topbar-right topbar-social">
 						<ul>
-							<li><a href="https://vk.com/sergei_serebro" class="site-button-link facebook hover"><i class="fa fa-vk"></i></a></li>
 							<li><a href="https://www.instagram.com/papillon_vrn" class="site-button-link instagram hover"><i class="fa fa-instagram"></i></a></li>
 						</ul>
 					</div>
@@ -102,7 +101,7 @@
                                 </div>
                                 <div class="m-b0">
                                     <h5 class="m-b10 text-white">Мы ждем вас по адресу:</h5>
-                                    <p>г. Воронеж, ул. Свободы, д. 14 (БЦ БИК), 8 этаж, оф. 808</p>
+                                    <p>г. Воронеж, ул. Свободы, д. 14 (БЦ БИК), 8 этаж, оф. 811</p>
                                     <p class="m-b25">График работы: с 8:00 до 22:00, без выходных</p>
                                     <div class="subscribe-form m-b20">
                                         <form role="search">
@@ -115,8 +114,7 @@
                                         </form>
                                     </div>
                                     <ul class="list-inline m-a0">
-                                        <li><a href="https://vk.com/sergei_serebro" class="site-button facebook circle"><i class="fa fa-vk"></i></a></li>
-                                        <li><a href="https://www.instagram.com/papillon_vrn" class="site-button instagram circle"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a href="https://www.instagram.com/papillon_vrn" class="site-button instagram footer-instagram circle"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -202,7 +200,7 @@ jQuery(document).ready(function() {
         });
         myMap.balloon.open([51.65902194, 39.19683768], {
             contentHeader: 'Papillon',
-            contentBody: 'ул.Свободы 14 (БЦ БИК), оф.808',
+            contentBody: 'ул.Свободы 14 (БЦ БИК), оф.811',
             balloonPane: 'outerBalloon'
         });
     }
