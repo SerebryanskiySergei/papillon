@@ -17,6 +17,8 @@
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 <!-- Page Title Here -->
 <title>Papillon - Салон депиляции</title>
+<meta name="google-site-verification" content="UMmy6hZS3aLbBHNk_eRKgqZMeBUr6mIP8lQP7Ryiaas" />
+<meta name="yandex-verification" content="27a047096dd4aa25" />
 <!-- Mobile Specific -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--[if lt IE 9]>
@@ -36,6 +38,20 @@
 <!-- Google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,600,700,800,900|El+Messiri:100,200,300,400,500,600,700,800,900|Raleway:100,200,300,400,500,600,700,800,900|Montserrat:100,200,300,400,500,600,700,800,900|Open+Sans:300,400,600,700,800|Roboto:100,300,400,500,700,900" rel="stylesheet">
     <script src="https://api-maps.yandex.ru/2.1/?apikey=4127a7fc-e815-435e-adc6-eaf0517a8310&lang=ru_RU" type="text/javascript"></script>
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    
+        ym(64871119, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/64871119" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+ <!-- /Yandex.Metrika counter -->
 </head>
 <body>
 <div class="page-wraper">
